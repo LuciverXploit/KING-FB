@@ -23,6 +23,7 @@ Tools Facebook Indonesia Crack
 
 
 Cara install dan jalankan
+
 $ pkg update && pkg upgrade
 
 $ pkg install python git
